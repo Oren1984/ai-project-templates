@@ -1,10 +1,19 @@
-# Hybrid DS + DL Pipeline — ROOT Template
+# Hybrid DS + DL Pipeline — ROOT Template (Module 1 + Module 2)
 
-**Module:** Hybrid (Module 1 — Data Science & Classical ML  
-+ Module 2 — Deep Learning & NLP)
-
+**Module:** Hybrid (Data Science & Classical ML + Deep Learning & NLP)  
 **Docs style:** English (single source of truth)  
 **Owner:** Oren (Oren1984)
+
+---
+
+## Hybrid repositories (references)
+
+- **hybrid-ds-dl-pipeline (repo):**  
+  https://github.com/Oren1984/hybrid-ds-dl-pipeline
+
+This ROOT template captures the shared **conceptual and structural standards** for hybrid projects that combine:
+- Module 1 — Data Science & Classical ML
+- Module 2 — Deep Learning & NLP
 
 ---
 
